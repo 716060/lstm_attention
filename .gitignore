@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+
+*.pyc
+logs/
+tmp/
+*tuples
+*.hdf5
